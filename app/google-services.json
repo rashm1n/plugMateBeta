@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "671396993574",
+    "firebase_url": "https://plugmatebeta.firebaseio.com",
+    "project_id": "plugmatebeta",
+    "storage_bucket": "plugmatebeta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671396993574:android:a770e122248a1e8b",
+        "android_client_info": {
+          "package_name": "com.example.rashminpc.plugmatebeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671396993574-0feni0gsaq1g0ov7g2dmktkb7iopnhtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rashminpc.plugmatebeta",
+            "certificate_hash": "c89731324d17913ffcbb8573867b4858d8fd726e"
+          }
+        },
+        {
+          "client_id": "671396993574-7oh3k5c0tv3pdf4ru4q34lr44cc2rivd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9B5pkllxQXvyeeSmBlCEWNnRZXzPBLkE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671396993574-7oh3k5c0tv3pdf4ru4q34lr44cc2rivd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
